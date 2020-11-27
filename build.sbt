@@ -1,4 +1,4 @@
-name := "sbtDemo"
+name := "sbtDemo2"
 
 version := "0.1"
 
